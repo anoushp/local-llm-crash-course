@@ -1,5 +1,5 @@
 from huggingface_hub import login
-login(token = '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')
+login(token = '')
 import streamlit as st
 import torch
 #load pdfs
